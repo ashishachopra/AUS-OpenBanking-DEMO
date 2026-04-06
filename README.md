@@ -60,5 +60,3 @@ Before you begin, ensure you have the following installed:
 ### Build
 1. Customise the project as needed for your specific use case.
 2. Run `npm run build` OR `yarn build` to build production release
-
-Consequently, the development work provided on the artefacts in this repository is on a best-effort basis, and the DSB acknowledges the use of these tools alone is not sufficient for, nor should they be relied upon with respect to [accreditation](https://www.accc.gov.au/focus-areas/consumer-data-right-cdr-0/cdr-draft-accreditation-guidelines), conformance, or compliance purposes.
